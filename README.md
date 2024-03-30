@@ -1,2 +1,2 @@
 # bookbot
-#project for practice
+#first project for learning how to code
